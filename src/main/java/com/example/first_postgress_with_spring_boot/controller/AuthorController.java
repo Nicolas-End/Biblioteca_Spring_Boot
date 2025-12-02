@@ -17,7 +17,7 @@ public class AuthorController {
 
     @GetMapping()
     public String WellCome(){
-        return "WellCome to the AuthorPage";
+        return "WellCome to Author Session";
     }
 
 }
